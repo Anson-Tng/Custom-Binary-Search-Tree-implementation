@@ -6,3 +6,30 @@ In order to fulfil the requirements and best optimise the processing sequences, 
 Compared to directly storing every wind log data into BST and causing it to be stored in a massive binary search tree, and only contains a short period of data. In contrast, this implemented design has the ability to store many years of maps and retrieve the data from each map more quickly.
 
 The program is also expected to execute the calculations with the retrieved data, such as finding the sum of the month, the average of the month, the standard deviation of the month, and the function of writing data into a file and reloading data from the file.
+
+# What's working in this program:
+- Read data from multiple files
+- 
+- Calculate the average and standard deviation of wind speed
+- 
+- Calculate the average and standard deciation of ambient temperature
+- 
+- Calcualte the total solar radidation in kWh/m2
+- 
+- Display all processed data and write data to WindTempSolar.csv file
+- 
+- Able to reload the met_index.txt file
+- 
+- Able to display no data if user input the year and month that is not exist in the BST
+- 
+- User input validation check (1-6)
+- 
+- BST with function pointers is used in this program
+- 
+- STL map is used in this program
+
+
+# What's not working in this program:
+- My custom made vector is not good as the STL::vector
+- 
+- This program must implement with STL::vector
