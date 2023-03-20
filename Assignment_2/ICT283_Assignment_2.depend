@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1654528079 source:c:\users\pc\desktop\ict283 lab 10\assignment 2\ict283_assignment_2\date.cpp
+	"DATE.H"
+
+1654621825 c:\users\pc\desktop\ict283 lab 10\assignment 2\ict283_assignment_2\date.h
+	<iostream>
+	<iomanip>
+
+1654526800 source:c:\users\pc\desktop\ict283 lab 10\assignment 2\ict283_assignment_2\time.cpp
+	"TIME.H"
+
+1654621828 c:\users\pc\desktop\ict283 lab 10\assignment 2\ict283_assignment_2\time.h
+	<iostream>
+
+1654527849 source:c:\users\pc\desktop\ict283 lab 10\assignment 2\ict283_assignment_2\main.cpp
+	<iostream>
+	<limits>
+	"time.h"
+	"DATE.H"
+	"Windlog.h"
+
+1654530525 c:\users\pc\desktop\ict283 lab 10\assignment 2\ict283_assignment_2\windlog.h
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<iomanip>
+	<vector>
+	<map>
+	"DATE.H"
+	"time.h"
+	"Bst.h"
+
+1654621821 c:\users\pc\desktop\ict283 lab 10\assignment 2\ict283_assignment_2\bst.h
+	<iostream>
+
+1654617089 source:c:\users\pc\desktop\ict283 lab 10\assignment 2\ict283_assignment_2\windlog.cpp
+	"Windlog.h"
+
